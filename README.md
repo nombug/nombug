@@ -3,7 +3,9 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://user-images.githubusercontent.com/93256168/173607743-8db5ec75-1a1b-446c-b601-ffe4f06f5e86.png">
+    <img src="https://user-images.githubusercontent.com/82255996/183295091-2ce2d5c0-cddb-4f64-9c88-2d8af6c6ffbf.png">
+  
+
   </a>
 
   <h3>My Tech Stack 💻</h3>
