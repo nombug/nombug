@@ -17,7 +17,7 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=Static&logo=Python&logoColor=white">
    <img src="https://img.shields.io/badge/Git-F05032?style=Static&logo=Git&logoColor=white">
 
-  <h3>Design 🎨</h3>
+  <h3>Design Tools🎨</h3>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=Static&logo=Adobe Photoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=Static&logo=Adobe Illustrator&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=Static&logo=Figma&logoColor=white">
@@ -31,5 +31,5 @@
   <hr>
   
   <img src="https://github-readme-stats.vercel.app/api?username=lightup-jin&show_icons=true&theme=blue-green">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightup-jin&&layout=compact&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightup-jin&layout=compact&theme=blue-green">
 </div>
