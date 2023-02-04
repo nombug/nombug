@@ -2,10 +2,8 @@
 <br>
 
 <div align="center">
-  <a href="#">
+  <a href="">
     <img src="https://user-images.githubusercontent.com/82255996/183295091-2ce2d5c0-cddb-4f64-9c88-2d8af6c6ffbf.png">
-  
-
   </a>
 
   <h3>My Tech Stack 💻</h3>
