@@ -22,13 +22,6 @@
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=Static&logo=Adobe Illustrator&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=Static&logo=Figma&logoColor=white">
   <br>
-
-<!--   <h3>My Velog 🚀</h3>
-  <a href="https://velog.io/@ingkejin/series">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=Static&logo=Velog&logoColor=white">
-  </a>
-  <br>
-  <hr> -->
   
   <img src="https://github-readme-stats.vercel.app/api?username=lightup-jin&show_icons=true&theme=blue-green">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightup-jin&layout=compact&theme=blue-green">
