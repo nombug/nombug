@@ -31,5 +31,4 @@
   <br>
   
   <img src="https://github-readme-stats.vercel.app/api?username=lightup-jin&show_icons=true&theme=blue-green">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lightup-jin&layout=compact&theme=blue-green">
 </div>
