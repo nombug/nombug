@@ -2,10 +2,6 @@
 <br>
 
 <div align="center">
-  <a href="">
-    <img src="https://user-images.githubusercontent.com/82255996/183295091-2ce2d5c0-cddb-4f64-9c88-2d8af6c6ffbf.png">
-  </a>
-
   <h3>My Tech Stack 💻</h3>
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=Static&logo=HTML5&logoColor=white&logoWidth=10&logoheight=20">
   
