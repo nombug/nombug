@@ -30,5 +30,5 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=Static&logo=Figma&logoColor=white">
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=nombug&show_icons=true&theme=blue-green">
+  <img src="https://github-readme-stats.vercel.app/api?username=constyejin&show_icons=true&theme=blue-green">
 </div>
