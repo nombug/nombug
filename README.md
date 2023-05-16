@@ -31,6 +31,6 @@
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=Static&logo=Adobe Illustrator&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=Static&logo=Figma&logoColor=white">
   <br>
-  
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=constyejin&show_icons=true&theme=blue-green">
 </div>
