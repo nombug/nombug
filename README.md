@@ -29,7 +29,7 @@
   <br>
   <br>
   <div>
-    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=constyejin&show_icons=true&theme=gotham)
+    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=constyejin&show_icons=true&theme=gotham) <br>
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constyejin&layout=compact&theme=gotham)
   </div>
 </div>
