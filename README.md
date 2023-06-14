@@ -26,8 +26,10 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=Static&logo=Adobe Photoshop&logoColor=white">
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=Static&logo=Adobe Illustrator&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=Static&logo=Figma&logoColor=white">
-
-  <div style="display : flex">
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constyejin&layout=compact&theme=tokyonight) <br>  
+  <br>
+  <br>
+  <div>
+    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=constyejin&show_icons=true&theme=gotham)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constyejin&layout=compact&theme=gotham)
   </div>
 </div>
