@@ -30,3 +30,4 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=constyejin&show_icons=true&theme=blue-green">
 </div>
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=constyejin)](https://github.com/constyejin/github-readme-stats)
