@@ -28,8 +28,9 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=Static&logo=Figma&logoColor=white">
   <br>
   <br>
+  <hr>
   <div>
     ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=constyejin&show_icons=true&theme=gotham) <br>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constyejin&layout=compact&theme=gotham)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constyejin&layout=compact&theme=gotham)
   </div>
 </div>
