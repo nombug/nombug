@@ -19,11 +19,6 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=Static&logo=Python&logoColor=white">
    <img src="https://img.shields.io/badge/PHP-777BB4?style=Static&logo=php&logoColor=white"/> 
    <img src="https://img.shields.io/badge/Git-F05032?style=Static&logo=Git&logoColor=white">
-
-  <h3>Design Tools🎨</h3>
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=Static&logo=Adobe Photoshop&logoColor=white">
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=Static&logo=Adobe Illustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=Static&logo=Figma&logoColor=white">
   <br>
   <br>
   <hr>
