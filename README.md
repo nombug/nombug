@@ -21,7 +21,6 @@
    <img src="https://img.shields.io/badge/Git-F05032?style=Static&logo=Git&logoColor=white">
   <br>
   <br>
-  <hr>
   <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=constyejin&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=constyejin&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
