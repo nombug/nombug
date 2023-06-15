@@ -29,6 +29,6 @@
   <br>
   <br>
   <hr>
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=constyejin&show_icons=true&theme=gotham) <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constyejin&layout=compact&theme=gotham)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=constyejin&show_icons=true&theme=gotham) <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=constyejin&theme=gotham)
 </div>
